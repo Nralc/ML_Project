@@ -1,0 +1,15 @@
+﻿OUTLOOK,TEMPERATURE,HUMIDITY,WINDY,FLY
+Rainy,Hot,High,Down,No
+Rainy,Hot,High,Up,No
+Cloudy,Hot,High,Down,Yes
+Sunny,Mild,High,Down,Yes
+Sunny,Cool,Normal,Down,Yes
+Sunny,Cool,Normal,Up,No
+Cloudy,Cool,Normal,Up,Yes
+Rainy,Mild,High,Down,No
+Rainy,Cool,Normal,Down,Yes
+Sunny,Mild,Normal,Down,Yes
+Rainy,Mild,Normal,Up,Yes
+Cloudy,Mild,High,Up,Yes
+Cloudy,Hot,Normal,Down,Yes
+Sunny,Mild,High,Up,No
